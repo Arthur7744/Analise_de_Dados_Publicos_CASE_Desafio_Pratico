@@ -1,6 +1,11 @@
 # Analise_de_Dados_Publicos_CASE_Desafio_Pratico
 Desafio de análise de dados públicos e desenvolvimento de dashboards e insights sobre o tema.
-OBS: Todas as etapas percorridas estão descritas no arquivo PDF "Relatório de Case - Processo Seletivo para Dados.pdf".
+Todas as etapas percorridas estão descritas no arquivo PDF "Relatório de Case - Processo Seletivo para Dados.pdf".
+Além do arquivo PDF, esse repositório conta com: 
+- as duas bases de dados utilizadas para a análise dos dados sendo elas os arquivos "estimativaAnoQtdeHospitais(in).csv" e "estimativaMunicipiosMG(in).csv";
+- os códigos feitos na IDE Jupyter Notebook que foram necessários durante o projeto("CasePTCI.ipynb");
+- a base de dados já integrada após o tratamento dos dados no formato xlsx("base_final.xlsx");
+- e o dashboard feito após a base de dados tratada("deshboardCase.pbix").
 
 ## DESCRIÇÃO DO DESAFIO
 1. OBJETIVO
