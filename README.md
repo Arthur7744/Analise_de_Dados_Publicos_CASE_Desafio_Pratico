@@ -1,9 +1,8 @@
 # Analise_de_Dados_Publicos_CASE_Desafio_Pratico
 Desafio de análise de dados públicos e desenvolvimento de dashboards e insights sobre o tema.
+OBS: Todas as etapas percorridas estão descritas no arquivo PDF "Relatório de Case - Processo Seletivo para Dados.pdf".
 
-OBS: Todas as etapas estão descritas no arquivo PDF "Relatório de Case - Processo Seletivo para Dados.pdf"
-
-#DESCRIÇÃO DO DESAFIO
+## DESCRIÇÃO DO DESAFIO
 1. OBJETIVO
 Avaliar a capacidade do(a) candidato(a) em estruturar, integrar, analisar e comunicar dados
 voltados à gestão pública, com foco em geração de valor para tomada de decisão.
